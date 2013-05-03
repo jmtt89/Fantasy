@@ -1,0 +1,1 @@
+Fantasy===================Proyecto para  Ingenieria de Software I (CI-4712) Universidad Simon Bolivar, Trimestre Sep-Dic 2011El proyecto consistia en realizar un juego de FANTASY inspirado en las ligas de Baseball VenezolanasFue programado en PHP con BD en PostgreSQL
